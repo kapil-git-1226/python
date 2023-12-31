@@ -1,7 +1,6 @@
 import turtle
 import random
 
-#  @python.coder_
 WIDTH = 500
 HEIGHT = 500
 FOOD_SIZE = 10
